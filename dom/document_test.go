@@ -3,9 +3,9 @@ package dom_test
 import (
 	"testing"
 
-	"github.com/lestrrat/go-libxml2/clib"
-	"github.com/lestrrat/go-libxml2/dom"
-	"github.com/lestrrat/go-libxml2/types"
+	"github.com/wouterz/go-libxml2/clib"
+	"github.com/wouterz/go-libxml2/dom"
+	"github.com/wouterz/go-libxml2/types"
 	"github.com/stretchr/testify/assert"
 )
 
